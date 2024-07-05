@@ -1,6 +1,6 @@
-public class Main {
-    public static void change(Student std){
-        std = new Student("Hung", 1995);
+public class Test {
+    public static void change(Student std) {
+        std.setYear(2000);
     }
 
     public static void main(String[] args) {

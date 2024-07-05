@@ -1,4 +1,4 @@
-package Bai4;
+package Bai4.Bai401;
 
 public class Student {
     private String name;
